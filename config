@@ -9,8 +9,8 @@ export DNS=dns_dp
 export DNS_SLEEP=120
 
 # 阿里云 DNS=dns_ali
-export Ali_Key="LTqIOKdjevsf5"
-export Ali_Secret="0p5nCPzKNbx6K51qPH2"
+export Ali_Key="LT4323424rrsf5"
+export Ali_Secret="0324324deeewwwwH2"
 
 # Dnspod DNS=dns_dp
 export DP_Id="10001"
